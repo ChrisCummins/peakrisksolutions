@@ -36,15 +36,39 @@ layout: compress
     <script>window.jQuery || document.write('<script src="{{ '/js/jquery-slim.min.js' | relative_url }}"><\/script>')</script>
     <script src="{{ '/js/popper.min.js' | relative_url }}"></script>
     <script src="{{ '/js/bootstrap.min.js' | relative_url }}"></script>
-    <script src="{{ '/js/holder.min.js' | relative_url }}"></script>
+    <!-- <script src="{{ '/js/holder.min.js' | relative_url }}"></script> -->
     <script src="{{ '/js/jarallax.min.js' | relative_url }}"></script>
-    <script>
-      Holder.addTheme('thumb', {
-        bg: '#55595c',
-        fg: '#eceeef',
-        text: 'Thumbnail'
-      });
-    </script>
+    <!-- <script type="text/javascript">
+        // object-fit polyfill run
+        objectFitImages();
+
+        /* init Jarallax */
+        jarallax(document.querySelectorAll('.jarallax'));
+
+        jarallax(document.querySelectorAll('.jarallax-keep-img'), {
+            keepImg: true,
+        });
+
+        /* init Flickity Carousel + Jarallax inside it */
+        // new Flickity( '.demo-carousel', {
+        //     initialIndex: 1,
+        //     autoPlay: 3000,
+        //     pauseAutoPlayOnHover: false,
+        //     pageDots: false,
+        //     prevNextButtons: false,
+        //     wrapAround: true
+        // });
+        // jarallax(document.querySelectorAll('.demo-carousel .jarallax'), {
+        //     elementInViewport: document.querySelectorAll('.demo-carousel')
+        // });
+
+        /* init Jarallax with jQuery */
+        // $('.jarallax').jarallax({
+        //     speed: 0.5,
+        //     imgWidth: 1366,
+        //     imgHeight: 768
+        // });
+    </script> -->
   </body>
 
 </html>
