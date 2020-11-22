@@ -147,6 +147,7 @@ h1 {
   background-size: 100%; 
   background-repeat: no-repeat; 
   filter: grayscale(50%);
+  border-radius: 0;
 }
 .jumbotron-footer {
   margin-bottom: 0;
