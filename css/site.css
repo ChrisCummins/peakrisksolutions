@@ -153,12 +153,26 @@ h1 {
   border-radius: 0;
 }
 
+.jarallax {
+  min-height: 350px;
+}
+.jarallax img {
+  filter: grayscale(50%);
+}
+
 .features .px-3 {
   padding-top: 1rem!important;
 }
 .features .p-3 {
   padding: 0.5rem!important;
 }
+.features .py-3 {
+  padding-top: 0!important;
+}
 .features p {
-  margin-bottom: 0;
+  margin: .5rem;
+  margin-top: 0;
+}
+.features p.lead {
+  font-weight: bold;
 }
