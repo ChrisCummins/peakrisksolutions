@@ -24,7 +24,7 @@ layout: compress
   <body>
     {% include navbar.html %}
 
-    <section class="jumbotron text-center" style="{% if page.banner %} background-image: url('{{ page.banner }}'); {% endif %}min-height: 330px; background-position: center; background-size: 100%; background-repeat: no-repeat; filter: grayscale(50%);">
+    <section class="jumbotron text-center" style="{% if page.banner %} background-image: url('{{ page.banner }}'); {% endif %}">
     </section>
 
     {{ content }}
