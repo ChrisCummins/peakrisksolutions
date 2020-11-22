@@ -1,7 +1,7 @@
 ---
 title: About Us
 layout: page
-banner:
+banner: https://images.unsplash.com/photo-1505441342913-32acd2c4bb68?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=60
 ---
 
 Philip Bladon spent the first 15 years of his career working in the UK’s coal mining industry, working at the coal face aged 18.

@@ -141,17 +141,24 @@ h1 {
   margin-top: 1rem;
   font-weight: bold;
 }
-.jumbotron {
-  min-height: 330px; 
-  background-position: center; 
-  background-size: 100%; 
-  background-repeat: no-repeat; 
+
+/* Parallax */
+.paral {
+  background-repeat: no-repeat;
+  min-height: 350px;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 50% 50%;
   filter: grayscale(50%);
   border-radius: 0;
 }
-.jumbotron-footer {
+
+.features .px-3 {
+  padding-top: 1rem!important;
+}
+.features .p-3 {
+  padding: 0.5rem!important;
+}
+.features p {
   margin-bottom: 0;
-  margin-top: 3rem;
-  min-height: 300px;
-  max-height: 300px;
 }

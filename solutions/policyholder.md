@@ -1,6 +1,7 @@
 ---
 title: Risk Solutions for Policyholders
 layout: page
+banner: https://images.unsplash.com/photo-1559526642-c3f001ea68ee?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=60
 ---
 
 Ever wondered why liability claims seem to succeed even though the company hasn’t been prosecuted?
