@@ -115,9 +115,20 @@ body {
 p {
   color: #000;
 }
-/*.navbar-brand {
-  font-size: 1.05rem;
-}*/
+h1 {
+  font-size: 1.8rem;
+  margin-bottom: 1.5rem;
+  margin-top: 1rem;
+  font-weight: bold;
+}
+h2 {
+  font-size: 1.01rem;
+  font-weight: bold;
+  margin-top: 1rem;
+}
+
+/* Navbar */
+
 .navbar-dark .navbar-nav .nav-item a.nav-link {
   color: #fff;
 }
@@ -135,13 +146,6 @@ p {
   color: #000!important;
 }
 
-h1 {
-  font-size: 1.5rem;
-  margin-bottom: 1.5rem;
-  margin-top: 1rem;
-  font-weight: bold;
-}
-
 .jarallax {
     position: relative;
     z-index: 0;
@@ -157,19 +161,26 @@ h1 {
     height: 100%;
     z-index: -1;
 }
-
 .jarallax img {
   filter: grayscale(50%);
+}
+.jarallax-spacer {
+  min-height: 430px;
+}
+@media only screen and (max-width: 765px) {
+  .jarallax-spacer {
+    min-height: 300px; 
+  }
 }
 
 .features .px-3 {
   padding-top: 1rem!important;
-}
-.features .p-3 {
-  padding: 0.5rem!important;
+  margin-bottom: 1rem!important;
 }
 .features .py-3 {
   padding-top: 0!important;
+  margin-top: 0rem!important;
+  margin-bottom: 0rem!important;
 }
 .features p {
   margin: .5rem;

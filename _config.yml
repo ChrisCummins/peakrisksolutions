@@ -45,3 +45,4 @@ defaults:
   -
     values:
       layout: "default"
+      contact_notice: true
