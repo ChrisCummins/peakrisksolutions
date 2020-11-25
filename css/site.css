@@ -161,7 +161,7 @@ h2 {
     height: 100%;
     z-index: -1;
 }
-.jarallax img {
+.jarallax img.third-party {
   filter: grayscale(50%);
 }
 .jarallax-spacer {

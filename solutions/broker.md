@@ -1,7 +1,8 @@
 ---
 title: Risk Solutions for Brokers
 layout: page
-banner: https://images.unsplash.com/photo-1584275142300-399449432665?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=60
+banner: /img/unsplash-1584275142300-399449432665.jpg
+banner-attribution: scienceinhd
 ---
 
 Using our remote-based outsourced services, with hourly rates and no minimum fee, you can now instantly access an efficient and highly cost-effective means of augmenting your own value-added client services and client-retention strategies.

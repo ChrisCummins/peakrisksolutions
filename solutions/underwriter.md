@@ -1,7 +1,8 @@
 ---
 title: Risk Solutions for Underwriters
 layout: page
-banner: https://images.unsplash.com/photo-1498631906572-66c58d46ecf7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60
+banner: /img/unsplash-1498631906572-66c58d46ecf7.jpg
+banner-attribution: ripato
 ---
 
 **The days of sending a surveyor to site and getting a 40-page report that no-one reads, are all but over.**

@@ -1,7 +1,7 @@
 ---
 title: Terms and Conditions
 layout: empty_page
-banner: https://images.unsplash.com/photo-1594648144731-a3b350b89a94?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1200&q=60
+banner: /img/unsplash-1594648144731-a3b350b89a94.jpg
 ---
 
 ## Terms and Conditions of Business
@@ -18,7 +18,7 @@ banner: https://images.unsplash.com/photo-1594648144731-a3b350b89a94?ixlib=rb-1.
 1. No guarantee is given, nor will any liability whatsoever be accepted by us in respect of the services that may be offered to you by any of our network of industry Subject Experts. You must fully satisfy yourself of their professional integrity, capability and insurance arrangements prior to engaging or placing any order with them
 1. If any part of the Terms of Service is unenforceable (including any provision in which we exclude our liability to you) the enforceability of any other part of the Terms of Service will not be affected all other clauses remaining in full force and effect. So far as possible where any clause/sub-clause or part of a clause/sub-clause can be severed to render the remaining part valid, the clause shall be interpreted accordingly. Alternatively, you agree that the clause shall be rectified and interpreted in such a way that closely resembles the original meaning of the clause /sub-clause as is permitted by law.
 1. These terms and conditions are to be construed in accordance with the laws of England and in the event of any dispute or claim associated with these terms and conditions, that dispute or claim shall be subject to the exclusive jurisdiction of the English courts.
-1. The above Terms of Service constitute the entire agreement of the parties and supersede any and all preceding and contemporaneous agreements between you and Peak Risk Solutions Ltd. Any waiver of any provision of the Terms of Service will be effective only if in writing and signed by a Director of Peak Risk Solutions Ltd. These Terms & Conditions come into effect after you have accepted our offer and supplied a Purchase Order number to secure the order, and/or after the last document is sent by either party.
+1. The above Terms constitute the entire agreement of the parties and supersede any and all preceding and contemporaneous agreements between you and Peak Risk Solutions Ltd. Any waiver of any provision of these Terms will be effective only if in writing and signed by a Director of Peak Risk Solutions Ltd. These Terms come into effect after the last document is sent by either party.
 1. We reserve the right to vary these terms and conditions.
 
 

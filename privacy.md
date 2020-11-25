@@ -26,7 +26,7 @@ No.
 
 ## Do we disclose the information we collect to outside parties?
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information except with your permission, such as in the case of referrals to our network of Risk Control Subject Exports.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information except with your permission, such as in the case of referrals to our network of Risk Control Subject Experts.
  
 The term "outside parties" does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
 
