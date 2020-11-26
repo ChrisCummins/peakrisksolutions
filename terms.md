@@ -1,7 +1,8 @@
 ---
 title: Terms and Conditions
 layout: empty_page
-banner: /img/unsplash-1594648144731-a3b350b89a94.jpg
+banner: /img/unsplash-1571512975603-8a97d66423c7.jpg
+banner-attribution: rumanamin
 ---
 
 ## Terms and Conditions of Business

@@ -1,7 +1,8 @@
 ---
 title: Privacy Policy
 layout: empty_page
-banner: https://images.unsplash.com/photo-1594648144731-a3b350b89a94?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1200&q=60
+banner: /img/unsplash-1571512975603-8a97d66423c7.jpg
+banner-attribution: rumanamin
 ---
 
 ## What information do we collect?
