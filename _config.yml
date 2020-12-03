@@ -32,7 +32,7 @@ detach:  false
 port:    4000
 host:    127.0.0.1
 url:     "https://peakrisksolutions.com"
-baseurl: "/peakrisksolutions"
+# baseurl: "/peakrisksolutions"
 show_dir_listing: false
 
 # Outputting
