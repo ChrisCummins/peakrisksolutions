@@ -7,9 +7,9 @@ banner-attribution: scienceinhd
 
 Using our remote-based outsourced services, with hourly rates and no minimum fee, you can now instantly access an efficient and highly cost-effective means of augmenting your own value-added client services and client-retention strategies.
 
-**The beauty of this service is in its scalability and efficiency.**
+**The principal advantages to you are Cost-Efficiencies and Scalability.**
 
-From ad hoc commissions, such as providing one-off input to your market submission, through to longer-term projects helping your clients improve their risk profile whilst reducing their exposure to claims and associated costs, our Broker Risk Control services give you outsourced expertise, on tap, whenever you want it.
+From singular commissions, such as a one-off input to a particularly challenging market Submission, through to longer-term projects where we're supporting your own efforts to continually improve your clients' risk profiles by reducing their exposure to claims and associated costs, our Broker Risk Control services give you that outsourced expertise, on demand, whenever you want it.
 
 Whether we’re working directly for you, your policyholder, or other partner providers such as nominated solicitors, we provide specialist Risk Control support in the following areas:
 

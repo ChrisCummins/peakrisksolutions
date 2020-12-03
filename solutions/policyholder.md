@@ -7,9 +7,9 @@ banner-attribution: anikinearthwalker
 
 Ever wondered why liability claims can succeed even though your company hasn’t been prosecuted?
 
-Using our remote-based outsourced solutions, we’ll complement your existing internal capabilities principally to reduce your risk of incidents, but also so that if things do go wrong, your systems are geared to rebuff claims where it's appropriate to do so, but also to minimise the overall costs of claims in the process.
+Using our remote-based outsourced solutions, we’ll complement your existing internal capabilities principally to reduce your risk of incidents, but also so that if things do go wrong, your defensibility systems are better-geared to repudiate claims where it’s appropriate to do so, but also mitigate your overall claims costs in the process.
 
-**The beauty of this service is in its scalability and efficiency.**
+**The principal advantages to you are Cost-Efficiencies and Scalability.**
 
 With hourly rates and no minimum fee, you maintain full control over the level and cost of the support you require, meaning you have liability expertise readily on tap, wherever you are in the world, but only as and when you need it.
 
