@@ -9,6 +9,7 @@ layout: compress
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="Phil Bladon">
+    {% include google-analytics.html %}
 
     {% if page.title == "Peak Risk Solutions" %}
     <title>{{ page.title }}</title>
@@ -18,7 +19,6 @@ layout: compress
 
     <link href="{{ '/css/bootstrap.min.css' | relative_url }}?v={{ site.github.build_revision }}" rel="stylesheet">
     <link href="{{ '/css/site.css' | relative_url }}?v={{ site.github.build_revision }}" rel="stylesheet">
-    {% include google-analytics.html %}
   </head>
 
   <body>
